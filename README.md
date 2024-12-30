@@ -6,11 +6,11 @@ Bienvenue sur mon portfolio GitHub ! 👋
 
 Compétences Techniques :
 
-**Systèmes d'exploitation** : Linux (Kali, Ubuntu), Windows
-**Pentesting** : Metasploit, Nmap, Wireshark, Burp Suite
-Langages de programmation : Python, C, Bash
-Réseaux : Configuration VLAN, OSPF, BGP, NAT, TCP/IP
-Cybersécurité : Analyse des vulnérabilités, audits de sécurité, outils d'exploitation
+1. **Systèmes d'exploitation** : Linux (Kali, Ubuntu), Windows
+2. **Pentesting** : Metasploit, Nmap, Wireshark, Burp Suite
+3. Langages de programmation : Python, C, Bash
+4. Réseaux : Configuration VLAN, OSPF, BGP, NAT, TCP/IP
+5. Cybersécurité : Analyse des vulnérabilités, audits de sécurité, outils d'exploitation
 
 Langues :
 
