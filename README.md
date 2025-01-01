@@ -24,7 +24,7 @@ I am a computer science student at CY-Tech in first year, passionate about cyber
 ## 📂 Structure
 
 1. **[Projects](./Projects/README.md)**: My practical projects in cybersecurity.  
-2. **[Tools](./Tools/README.md)**: Custom tools and scripts for vulnerability analysis.  
+2. **[Tools](./Tools/README.md)**: Custom tools and scripts.  
 3. **[Certifications](./Certifications/README.md)**: Certifications.
 
 ## 🚀 Recent Projects
@@ -75,7 +75,7 @@ Espagnol : Niveau A2
 
 ## 📂 Structure
 1. **[Projets](./Projets/README.md#projets)** : Mes projets pratiques en cybersécurité.
-2. **[Outils](./Tools/README.md/#outils)** : Outils et scripts personnalisés pour l'analyse de vulnérabilités.
+2. **[Outils](./Tools/README.md/#outils)** : Outils et scripts personnalisés.
 3. **[Certifications](./Certifications/README.md#version-française)** : Certifications.
 
 
