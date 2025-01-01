@@ -70,6 +70,6 @@ Les actions suivantes ont été proposées pour traiter les risques identifiés 
 
 ## Comment Utiliser ce Dépôt
 1. **Documentation** : Le fichier `Rapport_Evaluation_Vulnerabilites.docx` fournit des informations détaillées sur l'évaluation.
+   - [NIST SP 800-30 Rev. 1.pdf](https://github.com/user-attachments/files/18285874/NIST.SP.800-30.Rev.1.pdf)
 2. **Références Méthodologiques** : Consultez `NIST_SP_800-30.pdf` pour le cadre théorique guidant l'évaluation.
-[NIST SP 800-30 Rev. 1.pdf](https://github.com/user-attachments/files/18285874/NIST.SP.800-30.Rev.1.pdf)
-[Vulnerability assessment report exemplar.docx](https://github.com/user-attachments/files/18285872/Vulnerability.assessment.report.exemplar.docx)
+   - [Vulnerability assessment report exemplar.docx](https://github.com/user-attachments/files/18285872/Vulnerability.assessment.report.exemplar.docx)
