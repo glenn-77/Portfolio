@@ -30,7 +30,13 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
   - Réalisation d’une évaluation des vulnérabilités d’un serveur MySQL dans un environnement Linux en suivant les directives du NIST SP 800-30.  
   - Identification des menaces potentielles (exfiltration de données, perturbation d’opérations critiques) et évaluation des risques (probabilité et 
    gravité).  
-  - Mise en œuvre de recommandations : authentification forte, chiffrement TLS, contrôle d’accès basé sur les rôles, et liste blanche d’adresses IP.  
-  - Technologies utilisées : Linux, MySQL, Nmap, OpenVAS, Wireshark.  
-  - 📝 [Consultez le projet ici](./Vulnerability_Assessment_report.md)
+  - Mise en œuvre de recommandations : authentification forte, chiffrement TLS, contrôle d’accès basé sur les rôles, et liste blanche d’adresses IP.    
+  - 👉 [Consultez le projet ici](./Vulnerability_Assessment_report.md)
 
+ - **Analyseur de Trafic Réseau**
+  - Description : Développé un outil Python utilisant la bibliothèque Scapy pour capturer, analyser et détecter les anomalies dans le trafic réseau.
+  - Fonctionnalités principales :
+    - Analyse des paquets en temps réel pour identifier les adresses IP source/destination, les protocoles utilisés, et la taille des paquets.
+    - Détection des comportements suspects, comme les scans de ports ou les connexions répétées.
+    - Génération de rapports détaillés en CSV pour une analyse approfondie.
+  - - 👉 **[Consultez le projet ici](./Network_Traffic_Analyser.md)**
