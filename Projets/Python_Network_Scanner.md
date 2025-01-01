@@ -85,8 +85,11 @@ git push origin nom-de-la-fonctionnalite
 
 ---
 
-## Contact
-Pour toute question ou suggestion, n'hésitez pas à me contacter :
-- Email : [votre-email@example.com](mailto:votre-email@example.com)
-- GitHub : [votrenomutilisateur](https://github.com/votrenomutilisateur)
+## 📬 Contact
+
+Si vous avez des questions ou souhaitez discuter de ce projet, n’hésitez pas à me contacter via [mon profil GitHub](https://github.com/glenn77).
+
+---
+
+Merci de votre visite ! 🙌
 
