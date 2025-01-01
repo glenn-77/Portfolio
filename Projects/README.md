@@ -88,4 +88,4 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
     - Analyse des paquets en temps réel pour identifier les adresses IP source/destination, les protocoles utilisés, et la taille des paquets.  
     - Détection des comportements suspects, comme les scans de ports ou les connexions répétées.  
     - Génération de rapports détaillés en CSV pour une analyse approfondie.  
-  - 👉 [Consultez le projet ici](Projects/Network_Traffic_Analyser.md)
+  - 👉 [Consultez le projet ici](./Network_Traffic_Analyser.md)
