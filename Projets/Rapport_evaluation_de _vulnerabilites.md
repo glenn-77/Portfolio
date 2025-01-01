@@ -73,3 +73,11 @@ Les actions suivantes ont été proposées pour traiter les risques identifiés 
     - [Vulnerability assessment report exemplar.docx](https://github.com/user-attachments/files/18285872/Vulnerability.assessment.report.exemplar.docx)
 2. **Références Méthodologiques** : Consultez `NIST_SP_800-30.pdf` pour le cadre théorique guidant l'évaluation.
    - [NIST SP 800-30 Rev. 1.pdf](https://github.com/user-attachments/files/18285874/NIST.SP.800-30.Rev.1.pdf)
+
+## 📬 Contact
+
+Si vous avez des questions ou souhaitez discuter de ce projet, n’hésitez pas à me contacter via [mon profil GitHub](https://github.com/glenn77).
+
+---
+
+Merci de votre visite ! 🙌
