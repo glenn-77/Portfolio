@@ -36,11 +36,11 @@ The following Python libraries are required:
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/network-vulnerability-scanner.git
+git clone https://github.com/glenn-77/Portfolio.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd network-vulnerability-scanner
+cd Portfolio
 ```
 3. Run the Python script:
 ```bash
@@ -131,11 +131,11 @@ Les bibliothèques suivantes sont nécessaires :
 ## Installation
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/votrenomutilisateur/scanner-vulnerabilites-reseau.git
+git clone https://github.com/glenn-77/Portfolio.git
 ```
 2. Accédez au répertoire du projet :
 ```bash
-cd scanner-vulnerabilites-reseau
+cd Portfolio
 ```
 3. Exécutez le script Python :
 ```bash
