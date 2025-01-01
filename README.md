@@ -21,7 +21,7 @@ Espagnol : Niveau A2
 
 ## 📂 Structure
 1. **[Projects](./Projets/README.md)** : Mes projets pratiques en cybersécurité.
-2. **[Tools](./Outils/README.md/)** : Outils et scripts personnalisés pour l'analyse de vulnérabilités.
+2. **[Tools](./Tools/README.md/)** : Outils et scripts personnalisés pour l'analyse de vulnérabilités.
 3. **[Certifications](./Certifications-Formation/README.md)** : Certificats et formations.
 
 
