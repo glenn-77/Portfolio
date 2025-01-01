@@ -25,3 +25,12 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
   - Création d'une checklist basée sur le cadre NIST CSF pour évaluer la posture de sécurité d'autres environnements.
   - Documentation d'un plan de réponse aux incidents et d'un plan de reprise d'activité (PRA) pour limiter l'impact des futures attaques.
   - 👉 **[Consultez le projet ici](Projects/DDoS-Mitigation/README.md)**
+
+- 🔍 **Analyse de vulnérabilités d’un serveur de base de données**  
+  - Réalisation d’une évaluation des vulnérabilités d’un serveur MySQL dans un environnement Linux en suivant les directives du NIST SP 800-30.  
+  - Identification des menaces potentielles (exfiltration de données, perturbation d’opérations critiques) et évaluation des risques (probabilité et 
+   gravité).  
+  - Mise en œuvre de recommandations : authentification forte, chiffrement TLS, contrôle d’accès basé sur les rôles, et liste blanche d’adresses IP.  
+  - Technologies utilisées : Linux, MySQL, Nmap, OpenVAS, Wireshark.  
+  - 📝 [Consultez le projet ici](./Rapport d'évaluation de vulnérabilités.md)
+
