@@ -111,6 +111,10 @@ If you have any questions or want to discuss this project, feel free to contact 
 
 ---
 
+Thanks for your visit ! 🙌
+
+---
+
 # Version Française
 
 ## Sécurisation Réseau : Analyse et Résolution d'une Attaque DDoS ICMP
@@ -223,3 +227,5 @@ L'entreprise a subi une interruption des services réseau due à une attaque DDo
 Si vous avez des questions ou souhaitez discuter de ce projet, n’hésitez pas à me contacter via [mon profil GitHub](https://github.com/glenn77).
 
 ---
+
+Merci de votre visite ! 🙌
