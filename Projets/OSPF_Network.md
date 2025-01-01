@@ -79,7 +79,7 @@ If you have any questions or want to discuss this project, feel free to reach ou
 
 ---
 
-Thank you for visiting! 🙌
+Thank you for visit! 🙌
 
 ---
 # Version Française
