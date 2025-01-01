@@ -6,7 +6,7 @@ import requests
 def scanner_of_ports(ip, ports):
     """Open port scan with socket."""
     port_open = []
-    print(f"Ports scan for the adress {ip}")
+    print(f"Ports scan for the address {ip}")
     for port in ports:
         try:
             client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
