@@ -65,15 +65,12 @@ Report saved to traffic_report.csv
 
 ---
 
-## Contribution
-
-Contributions are welcome! Please submit a pull request or open an issue for any suggestions.
+## Contact
+If you have questions or if you want to talk about the project, don't hesitate to contact me at my profile [mon profil GitHub](https://github.com/glenn77).
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Thanks for your visit ! 🙌
 
 ---
 
