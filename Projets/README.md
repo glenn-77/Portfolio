@@ -24,7 +24,7 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
   - Mise en œuvre de mesures de sécurité, y compris des règles de pare-feu pour limiter les paquets ICMP, et l'intégration d'un système IDS/IPS.
   - Création d'une checklist basée sur le cadre NIST CSF pour évaluer la posture de sécurité d'autres environnements.
   - Documentation d'un plan de réponse aux incidents et d'un plan de reprise d'activité (PRA) pour limiter l'impact des futures attaques.
-  - 👉 **[Consultez le projet ici](./Audit_de_sécurité.md)**
+  - 👉 **[Consultez le projet ici](./Audit_de_sécurite.md)**
 
 - 🔍 **Analyse de vulnérabilités d’un serveur de base de données**  
   - Réalisation d’une évaluation des vulnérabilités d’un serveur MySQL dans un environnement Linux en suivant les directives du NIST SP 800-30.  
@@ -32,5 +32,5 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
    gravité).  
   - Mise en œuvre de recommandations : authentification forte, chiffrement TLS, contrôle d’accès basé sur les rôles, et liste blanche d’adresses IP.  
   - Technologies utilisées : Linux, MySQL, Nmap, OpenVAS, Wireshark.  
-  - 📝 [Consultez le projet ici](./Rapport_d'évaluation_de_vulnérabilités.md)
+  - 📝 [Consultez le projet ici](./Rapport_evaluation_de_vulnerabilites.md)
 
