@@ -5,7 +5,7 @@
 Welcome to my GitHub portfolio! 👋  
 
 ## About Me
-I am a computer science student at CY-Tech in first year, passionate about cybersecurity and penetration testing. My interests include system security, intrusion testing, and data protection. I am proficient in various tools and techniques used in the field and actively work on practical projects to enhance my skills. Below is an overview of my projects, scripts, tools, and certifications.
+I am a computer science student at CY-Tech in first year, passionate about cybersecurity and penetration testing. My interests include system security, intrusion testing, and AI. I am proficient in various tools and techniques used in the field and actively work on practical projects to enhance my skills. Below is an overview of my projects, scripts, tools, and certifications.
 
 ### Technical Skills
 
@@ -56,7 +56,7 @@ I am a computer science student at CY-Tech in first year, passionate about cyber
 
 Bienvenue sur mon portfolio GitHub ! 👋  
 ## À Propos de Moi
-Étudiant en ingénierie informatique à CY-Tech en première année, passionné par la cybersécurité et le pentesting. Je m'intéresse à la sécurité des systèmes, aux tests d'intrusion, et à la protection des données. Je maîtrise plusieurs outils et techniques utilisés dans le domaine, et je travaille activement sur des projets pratiques pour développer mes compétences. Voici un aperçu de mes projets, scripts, outils et certifications.
+Étudiant en ingénierie informatique à CY-Tech en première année, passionné par la cybersécurité et le pentesting. Je m'intéresse à la sécurité des systèmes, aux tests d'intrusion, et aux intelligences artificielles. Je maîtrise plusieurs outils et techniques utilisés dans le domaine, et je travaille activement sur des projets pratiques pour développer mes compétences. Voici un aperçu de mes projets, scripts, outils et certifications.
 
 Compétences Techniques :
 
