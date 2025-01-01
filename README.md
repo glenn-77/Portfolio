@@ -20,9 +20,9 @@ Espagnol : Niveau A2
 
 
 ## 📂 Structure
-1. **[Projects](Portfolio/Projects/)** : Mes projets pratiques en cybersécurité.
-2. **[Tools](Tools/)** : Outils et scripts personnalisés pour l'analyse de vulnérabilités.
-3. **[Certifications](Certifications/)** : Certificats et formations.
+1. **[Projects](./Projets/README.md)** : Mes projets pratiques en cybersécurité.
+2. **[Tools](./Outils/README.md/)** : Outils et scripts personnalisés pour l'analyse de vulnérabilités.
+3. **[Certifications](./Certifications-Formation/README.md)** : Certificats et formations.
 
 
 ## 🚀 Projets Récents
