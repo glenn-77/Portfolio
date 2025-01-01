@@ -7,5 +7,7 @@ Cette section regroupe les outils, scripts et configurations que j'ai développ�
    - Script Python pour scanner les ports ouverts : `scanner.py`
    - Script Python pour capturer et d'analyser les paquets réseau en temps réel : `traffic_analyser.py`
 3. **Configuration Réseaux**  
-    - Script pour configurer les routeurs en série avec le routage OSPF : `Router Configuration.txt`
+    - Script pour configurer les routeurs en série avec le routage OSPF : `Router Configuration.txt`  
+    [Router Configuration.txt](https://github.com/user-attachments/files/18286530/Router.Configuration.txt)
     - Script pour configurer les switches et assigner les ports à des VLANs : `Switch Configuration.txt`
+    [Switch Configuration.txt](https://github.com/user-attachments/files/18286532/Switch.Configuration.txt)
