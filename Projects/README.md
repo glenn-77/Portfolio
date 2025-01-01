@@ -4,7 +4,7 @@ Here you will find a variety of hands-on projects I have completed to strengthen
 
 ---
 
-### [Version Française](#projets)
+### [Version Française ici](#projets)
 
 ---
 
