@@ -1,4 +1,96 @@
-# Scanner de Vulnérabilités Réseau
+# Network Vulnerability Scanner / Scanner de Vulnérabilités Réseau
+
+# Network Vulnerability Scanner
+
+## Introduction
+This project is a **Python-based Network Vulnerability Scanner** designed to scan a target IP address, identify open ports, detect services and their versions, and analyze potential vulnerabilities using CVE (Common Vulnerabilities and Exposures) data. The scanner generates detailed reports in CSV and format, making it ideal for network security assessments.
+
+---
+
+## Features
+- **Port Scanning**: Detect open ports on a target IP address using Python's `socket` library.
+- **Advanced Scanning**: Leverage `nmap` to identify running services, versions, and perform vulnerability detection using Nmap's `vuln` scripts.
+- **CVE Integration**: Search for known vulnerabilities using external CVE databases (via API).
+- **Report Generation**:
+  - CSV format for structured data.
+
+---
+
+## Prerequisites
+
+### 1. Python Libraries
+The following Python libraries are required:
+- `socket`
+- `nmap` (`python-nmap` package)
+- `requests`
+- `csv`
+
+
+### 2. Tools
+- **Nmap**: Ensure Nmap is installed on your system. You can download it [here](https://nmap.org/download.html).
+
+---
+
+## Installation
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/network-vulnerability-scanner.git
+```
+2. Navigate to the project directory:
+```bash
+cd network-vulnerability-scanner
+```
+3. Run the Python script:
+```bash
+python scanner.py
+```
+
+---
+
+## Usage
+1. Execute the script and input the target IP address when prompted.
+2. The script performs the following steps:
+   - Scans for open ports.
+   - Uses Nmap to detect services and potential vulnerabilities.
+   - Checks for CVEs associated with detected services.
+3. Outputs the results in CSV file in the project directory.
+
+### Example Output
+- **CSV Report**: `scan_results.csv`
+---
+
+## Code Overview
+### Key Functions
+- `scanner_de_ports(ip, ports)`: Scans open ports using `socket`.
+- `scan_avance(ip)`: Uses Nmap to detect services and potential vulnerabilities.
+- `check_cve(service_name, version)`: Checks CVEs using the Vulners API.
+- `save_to_csv(results, filename)`: Saves scan results in CSV format.
+
+---
+
+## Contribution
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature:
+   ```bash
+    git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+    git commit -m "Add your message here"
+   ```
+4. Push to your branch:
+   ```bash
+    git push origin feature-name
+   ```
+5. Open a pull request.
+
+---
+
+## Contact
+For any questions or suggestions, feel free to contact me:
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: [yourusername](https://github.com/yourusername)
 
 ## Introduction
 Ce projet est un **scanner de vulnérabilités réseau basé sur Python** conçu pour analyser une adresse IP cible, identifier les ports ouverts, détecter les services et leurs versions, et analyser les vulnérabilités potentielles en utilisant des données CVE (Common Vulnerabilities and Exposures). Le scanner génère des rapports détaillés aux formats CSV, ce qui le rend idéal pour des évaluations de la sécurité réseau.
