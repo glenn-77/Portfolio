@@ -31,14 +31,14 @@ Espagnol : Niveau A2
   - Configuration des ports en mode access et trunk sur des switches, avec interconnexion via un routeur.
   - Mise en place du routage dynamique OSPF pour assurer la communication inter-VLAN et la redondance réseau.
   - Simulation et test de la topologie à l’aide de Cisco Packet Tracer.
-  👉 [Consultez le projet ici](Projects/OSPF_Network)
+  👉 [Consultez le projet ici](Projects/OSPF_Network.md)
 
 - 🌐 **Python : Network Scanner et Analyseur de Vulnérabilités**  
    - Développé un outil Python permettant de scanner un réseau et d’identifier les hôtes actifs, ports ouverts et services associés.
    - Intégré Nmap et Scapy pour détecter les vulnérabilités basées sur une base de données CVE.
    - Généré des rapports automatisés en formats CSV pour un usage pratique en audit de sécurité.
    - Technologies utilisées : Python, Scapy, Nmap, CSV.  
-  👉 [Consultez le projet ici](Projects/Python_Network_Scanner)
+  👉 [Consultez le projet ici](Projects/Python_Network_Scanner.md)
 
 ---
 
