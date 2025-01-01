@@ -62,7 +62,7 @@ Here’s a simplified view of the network topology used in this project:
 ## 🔧 How to Reproduce This Project
 
 1. Install [Cisco Packet Tracer](https://www.netacad.com/).
-2. Import the `.pkt` file (provided in [Tools]()).
+2. Import the `.pkt` file (provided in [Tools](https://github.com/glenn-77/Portfolio/blob/main/Tools/projet-ospf.pkt)).
 3. Follow the commands to configure and test the network.
  - [Switch Configuration.txt](https://github.com/user-attachments/files/18286057/Switch.Configuration.txt)
  - [Router Configuration.txt](https://github.com/user-attachments/files/18286056/Router.Configuration.txt)
@@ -145,7 +145,7 @@ Voici une vue simplifiée de la topologie réseau utilisée dans ce projet :
 ## 🔧 Comment Répliquer ce Projet
 
 1. Installez [Cisco Packet Tracer](https://www.netacad.com/).
-2. Importez le fichier `.pkt` (fourni dans `Outils`).
+2. Importez le fichier `.pkt` (fourni dans [Outils](https://github.com/glenn-77/Portfolio/blob/main/Tools/projet-ospf.pkt)).
 3. Suivez les commandes décrites pour configurer et tester le réseau.
    - [Switch Configuration.txt](https://github.com/user-attachments/files/18286057/Switch.Configuration.txt)
    - [Router Configuration.txt](https://github.com/user-attachments/files/18286056/Router.Configuration.txt)
