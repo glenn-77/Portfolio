@@ -52,7 +52,7 @@ I am a computer science student at CY-Tech in first year, passionate about cyber
 
 # Version Française
 
-## 🛡️ Cybersecurity Portfolio
+## 🛡️ Portfolio Cybersécurité
 
 Bienvenue sur mon portfolio GitHub ! 👋  
 ## À Propos de Moi
