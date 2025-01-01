@@ -43,7 +43,7 @@ Here you will find a variety of hands-on projects I have completed to strengthen
     - Real-time packet analysis to identify source/destination IP addresses, protocols used, and packet size.  
     - Detection of suspicious behavior, such as port scans or repeated connections.  
     - Generation of detailed CSV reports for in-depth analysis.  
-  - 👉 [View the project here](./Network_Traffic_Analyzer.md#analyseur-de-trafic-réseau)
+  - 👉 [View the project here](./Network_Traffic_Analyzer.md)
 
 ---
 
@@ -88,4 +88,4 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
     - Analyse des paquets en temps réel pour identifier les adresses IP source/destination, les protocoles utilisés, et la taille des paquets.  
     - Détection des comportements suspects, comme les scans de ports ou les connexions répétées.  
     - Génération de rapports détaillés en CSV pour une analyse approfondie.  
-  - 👉 [Consultez le projet ici](./Network_Traffic_Analyzer.md)
+  - 👉 [Consultez le projet ici](./Network_Traffic_Analyzer.md#analyseur-de-trafic-réseau)
