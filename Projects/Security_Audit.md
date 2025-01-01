@@ -1,6 +1,6 @@
 # Network Security: Analysis and Resolution of an ICMP DDoS Attack
 
-## [Lire la version française](#version-française)
+## [Version Française ici](#version-française)
 
 This project documents a detailed analysis and response to a distributed denial-of-service (DDoS) attack targeting an internal network using a massive flow of ICMP packets. It is based on the NIST Cybersecurity Framework (CSF) to guide the steps for securing the network and includes specific controls to enhance security posture.
 
