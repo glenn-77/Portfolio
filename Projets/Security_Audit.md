@@ -1,4 +1,119 @@
-# Sécurisation Réseau : Analyse et Résolution d'une Attaque DDoS ICMP
+# Network Security: Analysis and Resolution of an ICMP DDoS Attack
+
+## [Lire la version française](#version-française)
+
+This project documents a detailed analysis and response to a distributed denial-of-service (DDoS) attack targeting an internal network using a massive flow of ICMP packets. It is based on the NIST Cybersecurity Framework (CSF) to guide the steps for securing the network and includes specific controls to enhance security posture.
+
+## Table of Contents
+1. [Context](#context)
+2. [Objectives](#objectives)
+3. [Methodology](#methodology)
+    - [Incident Analysis](#incident-analysis)
+    - [Action Plan Based on NIST CSF](#action-plan-based-on-nist-csf)
+4. [Security Checklist](#security-checklist)
+5. [Recommendations](#recommendations)
+6. [Resources and References](#resources-and-references)
+
+---
+
+## Context
+
+The company experienced a network service disruption caused by a DDoS attack using an ICMP flood. This attack compromised internal operations for two hours before being resolved.
+
+### Incident Summary
+- **Type of Attack**: ICMP flooding DDoS
+- **Impact**: Disruption of all internal network services
+- **Immediate Response**: Blocked incoming ICMP packets and restored critical services.
+
+---
+
+## Objectives
+
+1. Analyze the attack to identify exploited vulnerabilities.
+2. Implement robust protection measures to prevent future attacks.
+3. Document a checklist to evaluate the security of other environments.
+4. Use the NIST CSF framework for a systematic response.
+
+---
+
+## Methodology
+
+### Incident Analysis
+
+| **Function**       | **Action Taken**                                                                                       |
+|---------------------|-------------------------------------------------------------------------------------------------------|
+| **Identify**        | The attack targeted the internal network through unfiltered massive ICMP packets.                     |
+| **Protect**         | Applied firewall rules to limit ICMP packets and implemented IDS/IPS.                                 |
+| **Detect**          | Configured firewall to check for spoofed IPs and monitored anomalous network flows.                   |
+| **Respond**         | Isolated affected systems and analyzed network logs for suspicious activity.                          |
+| **Recover**         | Restored critical services before reactivating secondary systems.                                     |
+
+---
+
+### Action Plan Based on NIST CSF
+
+#### **1. Identify**
+- Conducted a comprehensive asset audit.
+- Classified critical data (PII, SPII).
+- Assessed network vulnerabilities.
+
+#### **2. Protect**
+- Enforced strict firewall configurations.
+- Implemented a password management policy.
+- Secured sensitive data through encryption.
+
+#### **3. Detect**
+- Deployed IDS/IPS tools.
+- Proactively monitored logs for analysis.
+
+#### **4. Respond**
+- Documented incident management processes.
+- Regularly simulated incidents to test resilience.
+
+#### **5. Recover**
+- Tested and documented disaster recovery plans.
+- Automated critical restoration processes.
+
+---
+
+## Security Checklist
+
+| **Control**                          | **Status** |
+|---------------------------------------|------------|
+| Firewall with strict ICMP rules       | ✅          |
+| Spoofed IP verification               | ✅          |
+| IDS/IPS in place                      | ✅          |
+| Proactive network monitoring          | ✅          |
+| Regular data backups                  | ❌          |
+| Centralized password management       | ❌          |
+
+---
+
+## Recommendations
+
+1. **Implement Backups**: Establish regular backup policies to ensure resilience.
+2. **Enhance Access Management**: Implement least privilege principles to minimize exposure.
+3. **Employee Awareness**: Train staff on threats and incident response.
+4. **Regular Evaluations**: Perform frequent audits to detect new vulnerabilities.
+
+---
+
+## Resources and References
+
+1. NIST Cybersecurity Framework - [Applying the NIST CSF .pdf](https://github.com/user-attachments/files/18285944/Applying.the.NIST.CSF.pdf)
+2. [Incident report analysis.pdf](https://github.com/user-attachments/files/18285959/Incident.report.analysis.pdf)
+3. [Controls and compliance checklist.pdf](https://github.com/user-attachments/files/18285960/Controls.and.compliance.checklist.pdf)
+4.[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/18285942/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
+
+## 📬 Contact
+
+If you have any questions or want to discuss this project, feel free to contact me via [my GitHub profile](https://github.com/glenn77).
+
+---
+
+# Version Française
+
+## Sécurisation Réseau : Analyse et Résolution d'une Attaque DDoS ICMP
 
 Ce projet documente une analyse et une réponse détaillées à une attaque par déni de service distribué (DDoS) ciblant un réseau interne à l'aide d'un flux massif de paquets ICMP. Il s'appuie sur le cadre NIST Cybersecurity Framework (CSF) pour guider les étapes de sécurisation et inclut des contrôles spécifiques pour améliorer la posture de sécurité.
 
@@ -108,5 +223,3 @@ L'entreprise a subi une interruption des services réseau due à une attaque DDo
 Si vous avez des questions ou souhaitez discuter de ce projet, n’hésitez pas à me contacter via [mon profil GitHub](https://github.com/glenn77).
 
 ---
-
-Merci de votre visite ! 🙌
