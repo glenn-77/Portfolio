@@ -32,7 +32,6 @@ The **Network Traffic Analyzer** is a Python-based tool using the Scapy library.
 ---
 
 ## Installation
-- [traffic_analyser](./traffic_analyser.py) : Script Python
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-repo/network-traffic-analyzer.git
