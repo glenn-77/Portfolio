@@ -60,7 +60,7 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
   - Configuration des ports en mode access et trunk sur des switches, avec interconnexion via un routeur.  
   - Mise en place du routage dynamique OSPF pour assurer la communication inter-VLAN et la redondance réseau.  
   - Simulation et test de la topologie à l’aide de Cisco Packet Tracer.  
-  - 👉 [Consultez le projet ici](./OSPF_Network.md)
+  - 👉 [Consultez le projet ici](./OSPF_Network.md#version-française)
 
 - 🌐 **Python : Network Scanner et Analyseur de Vulnérabilités**  
    - Développé un outil Python permettant de scanner un réseau et d’identifier les hôtes actifs, ports ouverts et services associés.  
@@ -74,13 +74,13 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
   - Mise en œuvre de mesures de sécurité, y compris des règles de pare-feu pour limiter les paquets ICMP, et l'intégration d'un système IDS/IPS.  
   - Création d'une checklist basée sur le cadre NIST CSF pour évaluer la posture de sécurité d'autres environnements.  
   - Documentation d'un plan de réponse aux incidents et d'un plan de reprise d'activité (PRA) pour limiter l'impact des futures attaques.  
-  - 👉 [Consultez le projet ici](./Security_Audit.md)
+  - 👉 [Consultez le projet ici](./Security_Audit.md#version-française)
 
 - 🔍 **Analyse de vulnérabilités d’un serveur de base de données**  
   - Réalisation d’une évaluation des vulnérabilités d’un serveur MySQL dans un environnement Linux en suivant les directives du NIST SP 800-30.  
   - Identification des menaces potentielles (exfiltration de données, perturbation d’opérations critiques) et évaluation des risques (probabilité et gravité).  
   - Mise en œuvre de recommandations : authentification forte, chiffrement TLS, contrôle d’accès basé sur les rôles, et liste blanche d’adresses IP.  
-  - 👉 [Consultez le projet ici](./Vulnerability_Assessment_report.md)
+  - 👉 [Consultez le projet ici](./Vulnerability_Assessment_report.md#version-française)
 
 - 📊 **Analyseur de Trafic Réseau**  
   - Description : Développé un outil Python utilisant la bibliothèque Scapy pour capturer, analyser et détecter les anomalies dans le trafic réseau.  
