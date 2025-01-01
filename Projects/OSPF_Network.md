@@ -62,7 +62,7 @@ Here’s a simplified view of the network topology used in this project:
 ## 🔧 How to Reproduce This Project
 
 1. Install [Cisco Packet Tracer](https://www.netacad.com/).
-2. Import the `.pkt` file (provided in `Outils`).
+2. Import the `.pkt` file (provided in [Tools]()).
 3. Follow the commands to configure and test the network.
  - [Switch Configuration.txt](https://github.com/user-attachments/files/18286057/Switch.Configuration.txt)
  - [Router Configuration.txt](https://github.com/user-attachments/files/18286056/Router.Configuration.txt)
