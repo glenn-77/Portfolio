@@ -32,5 +32,5 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
    gravité).  
   - Mise en œuvre de recommandations : authentification forte, chiffrement TLS, contrôle d’accès basé sur les rôles, et liste blanche d’adresses IP.  
   - Technologies utilisées : Linux, MySQL, Nmap, OpenVAS, Wireshark.  
-  - 📝 [Consultez le projet ici](./Rapport_evaluation_de_vulnerabilites.md)
+  - 📝 [Consultez le projet ici](./Rapport_évaluation_de_vulnérabilités.md)
 
