@@ -71,15 +71,15 @@ Les contributions sont les bienvenues ! Suivez ces étapes :
 1. Forkez le dépôt.
 2. Créez une nouvelle branche pour votre fonctionnalité :
    ```bash
-git checkout -b nom-de-la-fonctionnalite
+    git checkout -b nom-de-la-fonctionnalite
    ```
 3. Commitez vos modifications :
    ```bash
-git commit -m "Ajout d'une nouvelle fonctionnalité"
+    git commit -m "Ajout d'une nouvelle fonctionnalité"
    ```
 4. Poussez votre branche :
    ```bash
-git push origin nom-de-la-fonctionnalite
+    git push origin nom-de-la-fonctionnalite
    ```
 5. Ouvrez une pull request.
 
