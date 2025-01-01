@@ -1,5 +1,7 @@
 # Network Vulnerability Scanner / Scanner de Vulnérabilités Réseau
 
+## [🇫🇷 Version française](#Scanner-de-vuln%C3A%9rabilit%C3A%9s-r%C3%A9seau)
+
 # Network Vulnerability Scanner
 
 ## Introduction
