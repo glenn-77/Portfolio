@@ -11,3 +11,4 @@ Cette section regroupe les outils, scripts et configurations que j'ai développ�
        -[Router Configuration.txt](https://github.com/user-attachments/files/18286530/Router.Configuration.txt)
     - Script pour configurer les switches et assigner les ports à des VLANs : `Switch Configuration.txt`
        -  [Switch Configuration.txt](https://github.com/user-attachments/files/18286532/Switch.Configuration.txt)
+    - Configuration réseaux du projet [OSPF_Network](Projects/OSPF_Network.md) : `projet ospf.pkt`
