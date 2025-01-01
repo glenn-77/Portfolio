@@ -1,6 +1,6 @@
 # Design and Configuration of a Secure Network with VLANs and Dynamic Routing (OSPF)
 
-## [🇫🇷 Version française](#conception-et-configuration-dun-reseau-securise-avec-vlans-et-routage-dynamique-(ospf))
+## [🇫🇷 Version française](#conception-et-configuration-dun-r%C3%A9seau-s%C3%A9curis%C3%A9-avec-vlans-et-routage-dynamique-(ospf))
 
 This project showcases the design and configuration of a secure network using VLANs for traffic segmentation and dynamic routing with OSPF to enable efficient and scalable communication between sub-networks.
 
