@@ -67,7 +67,7 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
    - Intégré Nmap et Scapy pour détecter les vulnérabilités basées sur une base de données CVE.  
    - Généré des rapports automatisés en formats CSV pour un usage pratique en audit de sécurité.  
    - Technologies utilisées : Python, Scapy, Nmap, CSV.  
-   - 👉 [Consultez le projet ici](./Python_Network_Scanner.md)
+   - 👉 [Consultez le projet ici](./Python_Network_Scanner.md#scanner-de-vulnérabilités-réseau)
 
 - 🔒 **Analyse et sécurisation contre une attaque DDoS ICMP**  
   - Analyse d'une attaque par déni de service distribué (DDoS) utilisant une inondation de paquets ICMP, ayant causé une indisponibilité réseau.  
