@@ -102,3 +102,11 @@ L'entreprise a subi une interruption des services réseau due à une attaque DDo
 2. [Incident report analysis.pdf](https://github.com/user-attachments/files/18285959/Incident.report.analysis.pdf)
 3. [Controls and compliance checklist.pdf](https://github.com/user-attachments/files/18285960/Controls.and.compliance.checklist.pdf)
 4.[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/18285942/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
+
+## 📬 Contact
+
+Si vous avez des questions ou souhaitez discuter de ce projet, n’hésitez pas à me contacter via [mon profil GitHub](https://github.com/glenn77).
+
+---
+
+Merci de votre visite ! 🙌
