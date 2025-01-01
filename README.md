@@ -44,7 +44,7 @@ I am a computer science student at CY-Tech in first year, passionate about cyber
   👉 [View the project here](Projects/Python_Network_Scanner.md)
 
 ---
-
+**LICENSE** MIT
 📧 **Contact Me:** [diffoglenn007@gmail.com]  
 🔗 **LinkedIn:** [linkedin.com/in/glenn-airton](https://linkedin.com/in/glenn-airton)  
 
@@ -95,7 +95,7 @@ Espagnol : Niveau A2
   👉 [Consultez le projet ici](Projects/Python_Network_Scanner.md#scanner-de-vulnérabilités-réseau)
 
 ---
-
+**LICENSE** MIT
 📧 **Contactez-moi :** [diffoglenn007@gmail.com]  
 🔗 **LinkedIn :** [linkedin.com/in/glenn-airton](https://linkedin.com/in/glenn-airton)  
 
