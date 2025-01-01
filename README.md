@@ -10,7 +10,7 @@ I am a computer science student at CY-Tech in first year, passionate about cyber
 ### Technical Skills
 
 1. **Operating Systems**: Linux (Kali, Ubuntu), Windows  
-2. **Networking**: VLAN Configuration, OSPF, BGP, TCP/IP  
+2. **Networking**: VLAN Configuration, OSPF, TCP/IP, UDP, DNS, HTTP, Firewall  
 3. **Programming Languages**: Python, C, Bash, SQL  
 4. **Cybersecurity**: Vulnerability analysis, security audits, exploitation tools  
 5. **Penetration Testing**: Metasploit, Nmap, Wireshark, Burp Suite, Hydra  
@@ -61,7 +61,7 @@ Bienvenue sur mon portfolio GitHub ! 👋
 Compétences Techniques :
 
 1. **Systèmes d'exploitation** : Linux (Kali, Ubuntu), Windows
-2. **Réseaux** : Configuration VLAN, OSPF, BGP, TCP/IP
+2. **Réseaux** : Configuration VLAN, OSPF, TCP/IP, UDP, DNS, HTTP, Firewall
 3. **Langages de programmation** : Python, C, Bash, SQL
 4. **Cybersécurité** : Analyse des vulnérabilités, audits de sécurité, outils d'exploitation
 5. **Pentesting** : Metasploit, Nmap, Wireshark, Burp Suite, Hydra
