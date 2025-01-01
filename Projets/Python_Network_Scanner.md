@@ -91,8 +91,11 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 For any questions or suggestions, feel free to contact me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: [glenn77](https://github.com/glenn77)
+
+---
+
+Thanks for your visit ! 🙌
 
 ---
 # Scanner de Vulnérabilités Réseau
