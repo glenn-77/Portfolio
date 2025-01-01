@@ -103,7 +103,7 @@ The company experienced a network service disruption caused by a DDoS attack usi
 1. NIST Cybersecurity Framework - [Applying the NIST CSF .pdf](https://github.com/user-attachments/files/18285944/Applying.the.NIST.CSF.pdf)
 2. [Incident report analysis.pdf](https://github.com/user-attachments/files/18285959/Incident.report.analysis.pdf)
 3. [Controls and compliance checklist.pdf](https://github.com/user-attachments/files/18285960/Controls.and.compliance.checklist.pdf)
-4.[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/18285942/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
+4.[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/userattachments/files/18285942/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
 
 ## 📬 Contact
 
@@ -216,7 +216,7 @@ L'entreprise a subi une interruption des services réseau due à une attaque DDo
 1. NIST Cybersecurity Framework - [Applying the NIST CSF .pdf](https://github.com/user-attachments/files/18285944/Applying.the.NIST.CSF.pdf)
 2. [Incident report analysis.pdf](https://github.com/user-attachments/files/18285959/Incident.report.analysis.pdf)
 3. [Controls and compliance checklist.pdf](https://github.com/user-attachments/files/18285960/Controls.and.compliance.checklist.pdf)
-4.[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/18285942/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
+4.[Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/userattachments/files/18285942/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
 
 ## 📬 Contact
 
