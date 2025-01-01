@@ -141,6 +141,12 @@ Rapport sauvegardé dans traffic_report.csv
 ```
 
 ---
+## 📬 Contact
 
+Si vous avez des questions ou souhaitez discuter de ce projet, n’hésitez pas à me contacter via [mon profil GitHub](https://github.com/glenn77).
+
+---
+
+Merci de votre visite ! 🙌
 
 
