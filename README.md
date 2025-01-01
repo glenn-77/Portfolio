@@ -68,9 +68,9 @@ Compétences Techniques :
 
 Langues :
 
-Français : Natif
-Anglais : Niveau B2
-Espagnol : Niveau A2 
+- Français : Natif
+- Anglais : Niveau B2
+- Espagnol : Niveau A2 
 
 
 ## 📂 Structure
