@@ -12,7 +12,7 @@
 ### 2️⃣ **Advent of Cyber 2024** *(Complétée)*
 - **Plateforme :** TryHackMe  
 - **Description :** Programme quotidien de cybersécurité couvrant des concepts variés tels que l'analyse de trafic, les vulnérabilités web, et les tests d'intrusion.  
-- **Date d'obtention :** Décembre 2024  
+- **Date d'obtention :** 30/12/2024  
 - 📄 **Certificat PDF disponible** : [Voir le certificat](https://github.com/user-attachments/files/18286738/THM-049U0X2CVU.pdf)  
 - 👉 [Lien vers le programme Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2024)
 ---
