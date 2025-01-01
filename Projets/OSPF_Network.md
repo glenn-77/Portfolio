@@ -1,3 +1,85 @@
+# Design and Configuration of a Secure Network with VLANs and Dynamic Routing (OSPF)
+
+This project showcases the design and configuration of a secure network using VLANs for traffic segmentation and dynamic routing with OSPF to enable efficient and scalable communication between sub-networks.
+
+## 🚀 Project Objectives
+
+1. **Segment the local network (LAN)** to improve security and traffic management using VLANs.
+2. **Configure dynamic routing with OSPF** to enable communication between VLANs.
+3. **Test connectivity and network security** using simulation tools.
+
+## 🛠️ Tools and Technologies Used
+
+- **Cisco Packet Tracer**: Network simulation and configuration.
+- **Network Protocols**: VLANs (802.1Q), OSPF (Open Shortest Path First).
+- **Simulated Hardware**: Switches, routers, and PCs.
+
+## 📖 Steps to Achieve the Project
+
+### 1. **VLAN Configuration**
+   - VLAN 10: IT Department.
+   - VLAN 20: Marketing Department.
+   - VLAN 30 : RH Department.
+   - VLAN 40 : Business Department.
+   - Configured ports in **access mode** for end devices and **trunk mode** for interconnection between network devices.
+
+### 2. **Inter-VLAN Configuration**
+   - Configured router sub-interfaces:
+     - `192.168.10.1/24` for VLAN 10.
+     - `192.168.20.1/24` for VLAN 20.
+     - `192.168.30.1/24` for VLAN 30.
+     - `192.168.40.1/24` for VLAN 40.
+
+
+### 3. **Dynamic Routing with OSPF**
+   - Activated OSPF on routers to dynamically share routes.
+   - Assigned OSPF areas and validated routes using the `show ip route` command.
+
+### 4. **Testing and Validation**
+   - **Inter-VLAN ping** to validate communication.
+   - Verified OSPF convergence and routing paths.
+
+## 🖼️ Network Diagram
+
+Here’s a simplified view of the network topology used in this project:
+![image_2025-01-01_175327892](https://github.com/user-attachments/assets/31f5c991-3635-48d5-9148-ffd7cbce93e3)
+
+
+## 📝 Results and Learnings
+
+- **Successful segmentation**: Traffic from each VLAN is isolated for enhanced security.
+- **Inter-VLAN communication established**: Achieved through dynamic routing with OSPF.
+- **Network flexibility**: OSPF ensures automatic route updates in case of topology changes.
+
+## 📂 Project Structure
+
+- **/configs**: Contains configuration files for switches and routers.
+- **/screenshots**: Includes screenshots of connectivity tests and topology in Packet Tracer.
+- **/documentation**: Detailed documentation, including commands used and explanations.
+
+## 🔧 How to Reproduce This Project
+
+1. Install [Cisco Packet Tracer](https://www.netacad.com/).
+2. Import the `.pkt` file (provided in `Outils`).
+3. Follow the commands to configure and test the network.
+ - [Switch Configuration.txt](https://github.com/user-attachments/files/18286057/Switch.Configuration.txt)
+ - [Router Configuration.txt](https://github.com/user-attachments/files/18286056/Router.Configuration.txt)
+
+## 🏆 Skills Demonstrated
+
+- VLAN configuration and management.
+- Dynamic routing with OSPF.
+- Network topology analysis and troubleshooting.
+
+## 📬 Contact
+
+If you have any questions or want to discuss this project, feel free to reach out via [my GitHub profile](https://github.com/glenn77).
+
+---
+
+Thank you for visiting! 🙌
+
+---
 # Conception et Configuration d’un Réseau Sécurisé avec VLANs et Routage Dynamique (OSPF)
 
 Ce projet illustre la création et la configuration d’un réseau sécurisé en utilisant des VLANs pour la segmentation du trafic, et le routage dynamique avec OSPF pour assurer une communication efficace et évolutive entre les différentes sous-réseaux.
