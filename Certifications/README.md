@@ -5,7 +5,7 @@
 ### 1️⃣ **Google Cybersecurity Professional Certificate** *(Completed)*
 - **Institution:** Google (via Coursera)  
 - **Description:** Comprehensive training covering the fundamentals of cybersecurity, incident management, and best practices for protecting IT systems.  
-- **Completion Date:** 30/12/2024  
+- **Completion Date:** 12/30/2024  
 - 📄 **Certificate PDF:** [View Certificate](https://github.com/user-attachments/files/18286722/Coursera.8KGMK5HTE4WS.pdf)
 - 👉 [Program Link](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
@@ -14,7 +14,7 @@
 ### 2️⃣ **Advent of Cyber 2024** *(Completed)*
 - **Platform:** TryHackMe  
 - **Description:** Daily cybersecurity program covering a variety of concepts such as traffic analysis, web vulnerabilities, and penetration testing.  
-- **Completion Date:** 24/12/2024  
+- **Completion Date:** 12/24/2024  
 - 📄 **Certificate PDF:** [View Certificate](https://github.com/user-attachments/files/18286738/THM-049U0X2CVU.pdf)  
 - 👉 [Advent of Cyber Program Link](https://tryhackme.com/r/room/adventofcyber2024)
 
@@ -23,7 +23,7 @@
 ### 3️⃣ **TryHackMe: Pre-Security Pathway** *(Completed)*
 - **Platform:** TryHackMe  
 - **Description:** Introductory cybersecurity program covering basics of systems, networks, and security concepts.  
-- **Completion Date:** 28/12/2024  
+- **Completion Date:** 12/28/2024  
 - 📄 **Certificate PDF:** [View Certificate](https://github.com/user-attachments/files/18286739/THM-P4NQELELSU.pdf)  
 - 👉 [Program Link](https://tryhackme.com/r/paths)
 
