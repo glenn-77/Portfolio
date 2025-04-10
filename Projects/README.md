@@ -10,6 +10,14 @@ Here you will find a variety of hands-on projects I have completed to strengthen
 
 ## 📋 List of Projects
 
+- 🌐 **Smart City – Intelligent Digital Platform**
+  - Team-based full-stack project using React, Node.js, PostgreSQL, and Bootstrap.
+    - Defined and implemented user roles: visitor, user, complex user, and admin
+    - Developed a logging system, statistics dashboard, and automated PDF/CSV report generation
+    - Built a manual user approval process with automatic email notifications
+    - Designed modules for connected object visualization, issue reporting, and administration of users and objects
+    - 👉 [View the project here](https://github.com/glenn-77/Projet/)
+
 - 🔍 **Design and Configuration of a Secure Network with VLANs and Dynamic Routing (OSPF)**  
   - Created a simulated network architecture with multiple VLANs for traffic segmentation.  
   - Configured ports in access and trunk modes on switches, with interconnection via a router.  
@@ -55,6 +63,14 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
 
 ## 📋 Liste des Projets
 
+- 🌐 **Ville Connectée – Plateforme Numérique Intelligente**
+  - Projet full-stack réalisé en équipe avec React, Node.js, PostgreSQL et Bootstrap.
+    - Mise en place de rôles utilisateurs : visiteur, utilisateur, complexe, administrateur
+    - Développement d’un système de logs, de statistiques et de génération automatique de rapports PDF/CSV
+    - Implémentation d’un processus de validation manuelle des inscriptions avec envoi de mails automatiques
+    - Conception de modules pour la visualisation des objets connectés, la gestion des signalements et l’administration des utilisateurs et objets
+    - 👉 [Consultez le projet ici](https://github.com/glenn-77/Projet/)
+
 - 🔍 **Conception et configuration d’un réseau sécurisé avec VLANs et routage dynamique (OSPF)**  
   - Création d’une architecture réseau simulée comprenant plusieurs VLANs pour segmenter le trafic.  
   - Configuration des ports en mode access et trunk sur des switches, avec interconnexion via un routeur.  
@@ -89,3 +105,5 @@ Vous trouverez ici une variété de projets pratiques que j'ai réalisés pour r
     - Détection des comportements suspects, comme les scans de ports ou les connexions répétées.  
     - Génération de rapports détaillés en CSV pour une analyse approfondie.  
   - 👉 [Consultez le projet ici](./Network_Traffic_Analyzer.md#analyseur-de-trafic-réseau)
+
+
